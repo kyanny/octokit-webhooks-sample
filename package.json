@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "Kensuke Nagae",
-  "license": "ISC",
+  "license": "MIT",
   "type": "module",
   "dependencies": {
     "express": "^4.19.2",
